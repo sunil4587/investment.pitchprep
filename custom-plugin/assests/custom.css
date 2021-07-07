@@ -1,0 +1,37 @@
+/*.post-content .ids-custom-background-accordian {*/
+/*    background: #fff;*/
+/*    padding: 6px 25px;*/
+/*    margin-bottom: 12px;*/
+/*}*/
+
+.form-admin-view ol li{
+    background: #a4d8d8;
+    padding-left: 15px;
+    border-radius: 5px;
+    margin: 20px;
+  	padding-top: 10px;
+    padding-bottom: 10px;
+}
+.custom-fill i.fa-fusion-box {
+    background: #67c0b5 !important;
+}
+.form-admin-view ol p,h5{
+    padding-left: 40px;
+}
+.form-admin-view .view-edit-form-button{
+    border-radius: 7px;
+    background: #67c0b5;
+    padding: 8px;
+    color:white;
+}
+
+.frm_message_update_ids p{
+  	border-radius: 20px;
+    border: 1px solid #D6E9C6;
+    background-color: #DFF0D8;
+    color: #468847;
+    padding: 10px 25px;
+    font-size: 16px;
+    margin: 0px 0 36px;
+    text-align: center;
+  }
